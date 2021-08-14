@@ -472,9 +472,7 @@ fieldset {
     padding-top: 60px;
     padding-bottom: 60px;
 }
-.rs-round:hover {
-  
-} 
+
 .rs-round {
     content: "";
     position: absolute;
@@ -505,7 +503,7 @@ fieldset {
     right: 0px;
     width: 2px;
     margin: 0 auto;
-    height: 80%;
+    height: 89%;
     background:#41b548;
     top: 15px;
 }
@@ -546,7 +544,7 @@ fieldset {
 .time-line .colam {
     margin-bottom: 80px; 
 }
-.rs-round.second {
+#rs-round.second {
     right: 0 !important;
     left: auto !important;
     margin-right: -60px !important;
